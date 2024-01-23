@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 from flask import Flask, g, redirect, request
+import os
+from dotenv import load_dotenv
 
 from mod_hello import mod_hello
 from mod_user import mod_user
@@ -9,8 +11,10 @@ from mod_mfa import mod_mfa
 
 import libsession
 
+load_dotenv()
+
 app = Flask('vulpy')
-app.config['SECRET_KEY'] = 'aaaaaaa'
+app.config['SECRET_KEY'] = os.getenv("KEY")
 
 app.register_blueprint(mod_hello, url_prefix='/hello')
 app.register_blueprint(mod_user, url_prefix='/user')
