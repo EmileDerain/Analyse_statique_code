@@ -8,16 +8,16 @@ Ce document présente les résultats de l'analyse statique de code effectuée su
 
 ### Rapport global
 
-- [Version HTML](/blob/main/SAST_doc/ex_1/reportALL.html)
-- [Version texte](/blob/main/SAST_doc/ex_1/reportALL.txt)
+- [Version HTML](SAST_doc/ex_1/reportALL.html)
+- [Version texte](SAST_doc/ex_1/reportALL.txt)
 
 ### Rapports individuels par script
 
-1. [Script 1](/blob/main/SAST_doc/ex_1/1/)
-2. [Script 2](/blob/main/SAST_doc/ex_1/2)
-3. [Script 3](/blob/main/SAST_doc/ex_1/3)
-4. [Script 4](/blob/main/SAST_doc/ex_1/4)
-5. [Script 5](/blob/main/SAST_doc/ex_1/5)
+1. [Script 1](SAST_doc/ex_1/1)
+2. [Script 2](SAST_doc/ex_1/2)
+3. [Script 3](SAST_doc/ex_1/3)
+4. [Script 4](SAST_doc/ex_1/4)
+5. [Script 5](SAST_doc/ex_1/5)
 
 ## Exercices 2, 3 et 4
 
