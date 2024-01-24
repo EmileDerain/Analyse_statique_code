@@ -21,4 +21,4 @@ Ce document présente les résultats de l'analyse statique de code effectuée su
 
 ## Exercices 2, 3 et 4
 
-Les réponses aux exercices 2, 3 et 4 sont détaillées dans le rapport complet disponible ici: [SAST_Report_LeoLeBihan_EmileDerain.pdf](/blob/main/SAST_Report_LeoLeBihan_EmileDerain.pdf)
+Les réponses aux exercices 2, 3 et 4 sont détaillées dans le rapport complet disponible ici: [SAST_Report_LeoLeBihan_EmileDerain.pdf](SAST_Report_LeoLeBihan_EmileDerain.pdf)
