@@ -2,7 +2,12 @@
 
 ## Introduction
 
-Ce document présente les résultats de l'analyse statique de code effectuée sur cinq scripts distincts dans le cadre de différents exercices.
+Dans le cadre du TD, nous avons exploré deux outils d'analyse statique de code : 
+
+1. **Bandit** : [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)
+2. **Semgrep** : [https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)
+
+Nous avons acquis une compréhension pratique de leur utilisation en nous appuyant sur plusieurs scripts démontrant des vulnérabilités. Pour conclure, nous avons examiné les limites des outils d'analyse statique en créant un script présentant une vulnérabilité critique non identifiée par Semgrep, mais détectée par un outil DAST tel que Burp.
 
 ## Exercice 1
 
